@@ -1,0 +1,6 @@
+#import <AXLocalizationCaptionServer/AXLocalizationCaptionMonitor.h>
+#import <AXLocalizationCaptionServer/AXLocalizationCaptionBackgroundControllerViewController.h>
+#import <AXLocalizationCaptionServer/AXLocalizationCaptionServer.h>
+#import <AXLocalizationCaptionServer/AXLocCaptionPanelUILockButton.h>
+#import <AXLocalizationCaptionServer/AXCaptionPanelTextPackage.h>
+#import <AXLocalizationCaptionServer/AXLocalizationCaptionViewController.h>

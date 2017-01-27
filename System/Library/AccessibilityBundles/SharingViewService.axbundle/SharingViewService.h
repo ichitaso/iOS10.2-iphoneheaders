@@ -1,0 +1,8 @@
+#import <SharingViewService/__ProximityPairingViewControllerAccessibility_super.h>
+#import <SharingViewService/ProximityPairingViewControllerAccessibility.h>
+#import <SharingViewService/AXSharingViewServiceGlue.h>
+#import <SharingViewService/__AppleTVSetupStartViewControllerAccessibility_super.h>
+#import <SharingViewService/AppleTVSetupStartViewControllerAccessibility.h>
+#import <SharingViewService/AXAggregatedDeviceBatteryStatusView.h>
+#import <SharingViewService/__ProximityStatusViewControllerAccessibility_super.h>
+#import <SharingViewService/ProximityStatusViewControllerAccessibility.h>

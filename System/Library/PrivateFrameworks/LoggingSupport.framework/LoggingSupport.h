@@ -1,0 +1,17 @@
+#import <LoggingSupport/OSLogDevice.h>
+#import <LoggingSupport/OSActivityStream.h>
+#import <LoggingSupport/OSActivityCreateEvent.h>
+#import <LoggingSupport/OSActivityTraceMessageEvent.h>
+#import <LoggingSupport/OSActivityLogMessageEvent.h>
+#import <LoggingSupport/OSActivitySignPostEvent.h>
+#import <LoggingSupport/OSActivityUserActionEvent.h>
+#import <LoggingSupport/OSActivityTransitionEvent.h>
+#import <LoggingSupport/OSActivityStatedumpEvent.h>
+#import <LoggingSupport/OSActivityEvent.h>
+#import <LoggingSupport/OSActivityEventMessage.h>
+#import <LoggingSupport/OSLogPersistence.h>
+#import <LoggingSupport/OSLogPreferencesManager.h>
+#import <LoggingSupport/OSLogPreferencesProcess.h>
+#import <LoggingSupport/OSLogPreferencesSubsystem.h>
+#import <LoggingSupport/OSLogPreferencesCategory.h>
+#import <LoggingSupport/OSActivityInstrumentation.h>

@@ -1,0 +1,15 @@
+#import <Widgets/__WGWidgetHostingViewControllerAccessibility_super.h>
+#import <Widgets/WGWidgetHostingViewControllerAccessibility.h>
+#import <Widgets/__WGWidgetShortLookViewAccessibility_super.h>
+#import <Widgets/WGWidgetShortLookViewAccessibility.h>
+#import <Widgets/__WGWidgetListEditViewTableViewCellAccessibility_super.h>
+#import <Widgets/WGWidgetListEditViewTableViewCellAccessibility.h>
+#import <Widgets/__WGWidgetListViewControllerAccessibility_super.h>
+#import <Widgets/WGWidgetListViewControllerAccessibility.h>
+#import <Widgets/__WGShortLookStyleButtonAccessibility_super.h>
+#import <Widgets/WGShortLookStyleButtonAccessibility.h>
+#import <Widgets/AXWidgetsGlue.h>
+#import <Widgets/__WGWidgetAttributionViewAccessibility_super.h>
+#import <Widgets/WGWidgetAttributionViewAccessibility.h>
+#import <Widgets/__WGNewWidgetsButtonAccessibility_super.h>
+#import <Widgets/WGNewWidgetsButtonAccessibility.h>

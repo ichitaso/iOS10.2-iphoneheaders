@@ -1,0 +1,9 @@
+#import <TipsWidgetExtension/AXTipsWidgetExtensionGlue.h>
+#import <TipsWidgetExtension/__TPSSingleTipViewControllerAccessibility_super.h>
+#import <TipsWidgetExtension/TPSSingleTipViewControllerAccessibility.h>
+#import <TipsWidgetExtension/__TPSWidgetTipViewAccessibility_super.h>
+#import <TipsWidgetExtension/TPSWidgetTipViewAccessibility.h>
+#import <TipsWidgetExtension/__TPSRelatedAppAssetViewAccessibility_super.h>
+#import <TipsWidgetExtension/TPSRelatedAppAssetViewAccessibility.h>
+#import <TipsWidgetExtension/__TipsWidgetExtensionUIViewAccessibility_super.h>
+#import <TipsWidgetExtension/TipsWidgetExtensionUIViewAccessibility.h>

@@ -1,0 +1,1 @@
+#import <AppleEAAccessoryUpdater/EAAccessoryUpdater.h>

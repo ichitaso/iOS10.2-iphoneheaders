@@ -1,0 +1,1 @@
+#import <FUDGenericKextUpdater/FGKUPlugin.h>

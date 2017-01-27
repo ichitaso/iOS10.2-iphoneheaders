@@ -1,0 +1,1 @@
+#import <IMSharedUI/IMTypingIndicatorLayer.h>

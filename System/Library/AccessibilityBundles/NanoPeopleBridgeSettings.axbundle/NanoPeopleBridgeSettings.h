@@ -1,0 +1,11 @@
+#import <NanoPeopleBridgeSettings/__NPLDeleteButtonAccessibility_super.h>
+#import <NanoPeopleBridgeSettings/NPLDeleteButtonAccessibility.h>
+#import <NanoPeopleBridgeSettings/AXNanoPeopleBridgeSettingsGlue.h>
+#import <NanoPeopleBridgeSettings/__NPLPeopleViewControllerAccessibility_super.h>
+#import <NanoPeopleBridgeSettings/NPLPeopleViewControllerAccessibility.h>
+#import <NanoPeopleBridgeSettings/__NPLPersonViewAccessibility_super.h>
+#import <NanoPeopleBridgeSettings/NPLPersonViewAccessibility.h>
+#import <NanoPeopleBridgeSettings/__NPLSettingsPeopleViewControllerAccessibility_super.h>
+#import <NanoPeopleBridgeSettings/NPLSettingsPeopleViewControllerAccessibility.h>
+#import <NanoPeopleBridgeSettings/__NPLPeopleViewCellAccessibility_super.h>
+#import <NanoPeopleBridgeSettings/NPLPeopleViewCellAccessibility.h>

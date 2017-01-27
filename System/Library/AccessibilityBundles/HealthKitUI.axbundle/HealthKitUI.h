@@ -1,0 +1,9 @@
+#import <HealthKitUI/AXHealthKitUIGlue.h>
+#import <HealthKitUI/__HKActivityRingViewAccessibility_super.h>
+#import <HealthKitUI/HKActivityRingViewAccessibility.h>
+#import <HealthKitUI/___HKRingAccessibility_super.h>
+#import <HealthKitUI/_HKRingAccessibility.h>
+#import <HealthKitUI/__HKRingGroupControllerAccessibility_super.h>
+#import <HealthKitUI/HKRingGroupControllerAccessibility.h>
+#import <HealthKitUI/__HKRingsViewAccessibility_super.h>
+#import <HealthKitUI/HKRingsViewAccessibility.h>

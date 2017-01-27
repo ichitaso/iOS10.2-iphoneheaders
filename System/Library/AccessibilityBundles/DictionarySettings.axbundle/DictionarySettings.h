@@ -1,0 +1,10 @@
+#import <DictionarySettings/AXInternationalSettingsGlue.h>
+#import <DictionarySettings/__ISInternationalLanguageControllerAccessibility_super.h>
+#import <DictionarySettings/ISInternationalLanguageControllerAccessibility.h>
+#import <DictionarySettings/__InternationalSettingsControllerAccessibility_super.h>
+#import <DictionarySettings/InternationalSettingsControllerAccessibility.h>
+#import <DictionarySettings/__DSDictionaryTableCellAccessibility_super.h>
+#import <DictionarySettings/DSDictionaryTableCellAccessibility.h>
+#import <DictionarySettings/AXDictionarySettingsGlue.h>
+#import <DictionarySettings/__RegionFormatSampleViewAccessibility_super.h>
+#import <DictionarySettings/RegionFormatSampleViewAccessibility.h>

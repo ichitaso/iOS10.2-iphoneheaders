@@ -1,0 +1,7 @@
+#import <MSMessageExtensionBalloonPlugin/MSMessageExtensionBrowserViewController.h>
+#import <MSMessageExtensionBalloonPlugin/MSMessageExtensionUtilities.h>
+#import <MSMessageExtensionBalloonPlugin/MSMessageExtensionBalloonView.h>
+#import <MSMessageExtensionBalloonPlugin/_MSLinkPresentationPropertyProvider.h>
+#import <MSMessageExtensionBalloonPlugin/MSMessageExtensionDataSource.h>
+#import <MSMessageExtensionBalloonPlugin/MSMessageExtensionFallbackTranscoder.h>
+#import <MSMessageExtensionBalloonPlugin/MSMessageExtensionBalloonController.h>

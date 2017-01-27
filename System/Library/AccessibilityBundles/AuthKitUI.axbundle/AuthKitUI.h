@@ -1,0 +1,9 @@
+#import <AuthKitUI/__AKBasicLoginAlertControllerAccessibility_super.h>
+#import <AuthKitUI/AKBasicLoginAlertControllerAccessibility.h>
+#import <AuthKitUI/__AKInlineSignInViewControllerAccessibility_super.h>
+#import <AuthKitUI/AKInlineSignInViewControllerAccessibility.h>
+#import <AuthKitUI/__AKBasicLoginContentViewControllerContainerViewAccessibility_super.h>
+#import <AuthKitUI/AKBasicLoginContentViewControllerContainerViewAccessibility.h>
+#import <AuthKitUI/AXAuthKitGlue.h>
+#import <AuthKitUI/__AKTextFieldAccessibility_super.h>
+#import <AuthKitUI/AKTextFieldAccessibility.h>

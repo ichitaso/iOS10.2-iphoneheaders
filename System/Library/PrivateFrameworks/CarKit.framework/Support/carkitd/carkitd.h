@@ -1,0 +1,14 @@
+#import <carkitd/CRVehicleStore.h>
+#import <carkitd/CRVehicleStoreAvailability.h>
+#import <carkitd/CRCarPlayAppServiceAgent.h>
+#import <carkitd/CRCarKitServiceAgent.h>
+#import <carkitd/CRAlert.h>
+#import <carkitd/CRVehicleAccessoryAlert.h>
+#import <carkitd/CROutstandingWiredVehicleApprovalAlert.h>
+#import <carkitd/CROutstandingWirelessVehicleApprovalAlert.h>
+#import <carkitd/CROutstandingVehiclePairingAlert.h>
+#import <carkitd/CRReconnectionEnableWiFiAlert.h>
+#import <carkitd/CRCarKitMonitoringServiceAgent.h>
+#import <carkitd/CRWirelessSessionAssertionManager.h>
+#import <carkitd/CRBluetoothManager.h>
+#import <carkitd/CRWiFiCarManager.h>

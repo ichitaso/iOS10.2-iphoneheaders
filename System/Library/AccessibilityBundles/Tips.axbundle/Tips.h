@@ -1,0 +1,9 @@
+#import <Tips/__TPSTipCollectionViewCellAccessibility_super.h>
+#import <Tips/TPSTipCollectionViewCellAccessibility.h>
+#import <Tips/AXTipsGlue.h>
+#import <Tips/__TPSUICollectionViewAccessibility_super.h>
+#import <Tips/TPSUICollectionViewAccessibility.h>
+#import <Tips/__TPSIntroViewControllerAccessibility_super.h>
+#import <Tips/TPSIntroViewControllerAccessibility.h>
+#import <Tips/__TPSRelatedAppAssetViewAccessibility_super.h>
+#import <Tips/TPSRelatedAppAssetViewAccessibility.h>

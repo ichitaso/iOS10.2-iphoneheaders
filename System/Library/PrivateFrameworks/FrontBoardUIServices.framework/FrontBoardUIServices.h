@@ -1,0 +1,17 @@
+#import <FrontBoardUIServices/FBUISceneManager.h>
+#import <FrontBoardUIServices/FBUISceneClient.h>
+#import <FrontBoardUIServices/FBUISceneClientIdentity.h>
+#import <FrontBoardUIServices/FBUISceneUpdateClientSettingsEvent.h>
+#import <FrontBoardUIServices/FBUIProcess.h>
+#import <FrontBoardUIServices/FBUICurrentProcess.h>
+#import <FrontBoardUIServices/FBUISceneEvent.h>
+#import <FrontBoardUIServices/FBUIProcessManager.h>
+#import <FrontBoardUIServices/FBUIScene.h>
+#import <FrontBoardUIServices/FBUISceneUpdateSettingsEvent.h>
+#import <FrontBoardUIServices/FBUISceneHost.h>
+#import <FrontBoardUIServices/FBUISceneActionsEvent.h>
+#import <FrontBoardUIServices/FBUISceneInvalidationEvent.h>
+#import <FrontBoardUIServices/FBUISceneIdentity.h>
+#import <FrontBoardUIServices/FBUISceneEventResponse.h>
+#import <FrontBoardUIServices/FBUIUserAgent.h>
+#import <FrontBoardUIServices/FBUISceneWorkspace.h>

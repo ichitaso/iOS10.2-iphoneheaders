@@ -1,0 +1,4 @@
+#import <DeepBreathingSettings/HPRFDeepBreathingBreathRateController.h>
+#import <DeepBreathingSettings/HPRFDeepBreathingHapticLevelController.h>
+#import <DeepBreathingSettings/HPRFDeepBreathingSettingsController.h>
+#import <DeepBreathingSettings/HPRFDeepBreathingReminderFrequencyController.h>

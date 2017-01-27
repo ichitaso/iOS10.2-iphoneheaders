@@ -1,0 +1,13 @@
+#import <CloudDocsUI/AXCloudDocsUIGlue.h>
+#import <CloudDocsUI/___UIDocumentPickerDocumentCollectionViewAccessibility_super.h>
+#import <CloudDocsUI/_UIDocumentPickerDocumentCollectionViewAccessibility.h>
+#import <CloudDocsUI/___UIDocumentPickerSortOrderViewAccessibility_super.h>
+#import <CloudDocsUI/_UIDocumentPickerSortOrderViewAccessibility.h>
+#import <CloudDocsUI/___UIDocumentPickerDocumentCellAccessibility_super.h>
+#import <CloudDocsUI/_UIDocumentPickerDocumentCellAccessibility.h>
+#import <CloudDocsUI/___UIDocumentPickerSearchPaletteViewAccessibility_super.h>
+#import <CloudDocsUI/_UIDocumentPickerSearchPaletteViewAccessibility.h>
+#import <CloudDocsUI/___UIDocumentPickerCellAccessibility_super.h>
+#import <CloudDocsUI/_UIDocumentPickerCellAccessibility.h>
+#import <CloudDocsUI/___UIDocumentPickerDocumentCollectionViewControllerAccessibility_super.h>
+#import <CloudDocsUI/_UIDocumentPickerDocumentCollectionViewControllerAccessibility.h>

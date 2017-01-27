@@ -1,0 +1,14 @@
+#import <libsystem_network.dylib/OS_nw_write_request.h>
+#import <libsystem_network.dylib/OS_nw_read_request.h>
+#import <libsystem_network.dylib/OS_nw_endpoint.h>
+#import <libsystem_network.dylib/OS_nw_parameters.h>
+#import <libsystem_network.dylib/OS_nw_path.h>
+#import <libsystem_network.dylib/OS_nw_path_evaluator.h>
+#import <libsystem_network.dylib/OS_nw_interface.h>
+#import <libsystem_network.dylib/OS_nw_array.h>
+#import <libsystem_network.dylib/OS_nw_dictionary.h>
+#import <libsystem_network.dylib/OS_nw_frame.h>
+#import <libsystem_network.dylib/OS_nw_channel.h>
+#import <libsystem_network.dylib/OS_nw_nexus.h>
+#import <libsystem_network.dylib/NWConcrete_nw_resolver.h>
+#import <libsystem_network.dylib/NWConcrete_nw_fd_wrapper.h>

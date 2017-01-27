@@ -1,0 +1,9 @@
+#import <Pasteboard/PBServerConnection.h>
+#import <Pasteboard/PBKeyedUnarchiver.h>
+#import <Pasteboard/PBItem.h>
+#import <Pasteboard/PBItemCollectionServicer.h>
+#import <Pasteboard/PBItemCollection.h>
+#import <Pasteboard/PBCoercionRegistry.h>
+#import <Pasteboard/PBObjectToRepresentationCoercion.h>
+#import <Pasteboard/PBRepresentationToObjectCoercion.h>
+#import <Pasteboard/PBObjectToObjectCoercion.h>

@@ -1,0 +1,17 @@
+#import <ControlCenterUI/__CCUIButtonLikeSectionSplitViewAccessibility_super.h>
+#import <ControlCenterUI/CCUIButtonLikeSectionSplitViewAccessibility.h>
+#import <ControlCenterUI/__CCUIControlCenterButtonAccessibility_super.h>
+#import <ControlCenterUI/CCUIControlCenterButtonAccessibility.h>
+#import <ControlCenterUI/__CCUINightShiftContentViewAccessibility_super.h>
+#import <ControlCenterUI/CCUINightShiftContentViewAccessibility.h>
+#import <ControlCenterUI/__CCUIControlCenterSectionViewAccessibility_super.h>
+#import <ControlCenterUI/CCUIControlCenterSectionViewAccessibility.h>
+#import <ControlCenterUI/__CCUIButtonModuleAccessibility_super.h>
+#import <ControlCenterUI/CCUIButtonModuleAccessibility.h>
+#import <ControlCenterUI/__CCUIButtonControllerAccessibility_super.h>
+#import <ControlCenterUI/CCUIButtonControllerAccessibility.h>
+#import <ControlCenterUI/AXControlCenterUIGlue.h>
+#import <ControlCenterUI/__CCUIControlCenterViewControllerAccessibility_super.h>
+#import <ControlCenterUI/CCUIControlCenterViewControllerAccessibility.h>
+#import <ControlCenterUI/__CCUIBrightnessSectionControllerAccessibility_super.h>
+#import <ControlCenterUI/CCUIBrightnessSectionControllerAccessibility.h>

@@ -1,0 +1,12 @@
+#import <InputContext/_ICPredictionManager.h>
+#import <InputContext/_ICProactiveTriggerUtilities.h>
+#import <InputContext/_ICProactiveTrigger.h>
+#import <InputContext/_ICPredictedItem.h>
+#import <InputContext/_ICContact.h>
+#import <InputContext/_ICPEXPredictionSource.h>
+#import <InputContext/_ICEventItem.h>
+#import <InputContext/_ICSearchContext.h>
+#import <InputContext/_ICPersonItem.h>
+#import <InputContext/_ICResultCache.h>
+#import <InputContext/_ICSimulatorPredictionSource.h>
+#import <InputContext/_ICLocationItem.h>

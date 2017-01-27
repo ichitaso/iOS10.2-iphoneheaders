@@ -1,0 +1,1 @@
+#import <FitnessPrivacySettings/HPRFFitnessPrivacySettingsController.h>

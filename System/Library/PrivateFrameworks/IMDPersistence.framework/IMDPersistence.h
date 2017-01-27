@@ -1,0 +1,13 @@
+#import <IMDPersistence/IMDSuggestions.h>
+#import <IMDPersistence/IMDDatabaseDowngradeHelper.h>
+#import <IMDPersistence/IMAbstractDatabaseArchiver.h>
+#import <IMDPersistence/IMDSqlQuery.h>
+#import <IMDPersistence/IMDSqlSelectQuery.h>
+#import <IMDPersistence/IMDPersistentAttachmentController.h>
+#import <IMDPersistence/IMDatabaseAnonymizer.h>
+#import <IMDPersistence/IMDWhitetailToCoralDowngrader.h>
+#import <IMDPersistence/IMDWhitetailToCoralDowngradeHelper.h>
+#import <IMDPersistence/IMDAbstractDatabaseDowngrader.h>
+#import <IMDPersistence/IMTrimDatabaseToDays.h>
+#import <IMDPersistence/IMTrimDatabaseToMessageCount.h>
+#import <IMDPersistence/IMAbstractDatabaseTrimmer.h>

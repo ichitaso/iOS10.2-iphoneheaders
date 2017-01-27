@@ -1,0 +1,11 @@
+#import <QueryPredictionInternal/_QPQueryFilter.h>
+#import <QueryPredictionInternal/_QPQueryRankerParameters.h>
+#import <QueryPredictionInternal/_QPQueryRankerConfiguration.h>
+#import <QueryPredictionInternal/_QPExpertParameters.h>
+#import <QueryPredictionInternal/_QPQueryRankScore.h>
+#import <QueryPredictionInternal/_QPQueryRank.h>
+#import <QueryPredictionInternal/_QPQueryRanker.h>
+#import <QueryPredictionInternal/_WeightedString.h>
+#import <QueryPredictionInternal/_QPSearchFeedbackListener.h>
+#import <QueryPredictionInternal/_QPParameters.h>
+#import <QueryPredictionInternal/_QPSearchFeedbackListenerParameters.h>

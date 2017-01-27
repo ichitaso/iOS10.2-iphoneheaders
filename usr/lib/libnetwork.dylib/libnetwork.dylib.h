@@ -1,0 +1,16 @@
+#import <libnetwork.dylib/NWConcrete_nw_endpoint_flow.h>
+#import <libnetwork.dylib/NWConcrete_nw_endpoint_proxy.h>
+#import <libnetwork.dylib/OS_tcp_listener.h>
+#import <libnetwork.dylib/OS_network_proxy.h>
+#import <libnetwork.dylib/NWConcrete_nw_endpoint_handler.h>
+#import <libnetwork.dylib/NWConcrete_nw_pac_resolver.h>
+#import <libnetwork.dylib/NWConcrete_nw_endpoint_fallback.h>
+#import <libnetwork.dylib/NWConcrete_nw_endpoint_resolver.h>
+#import <libnetwork.dylib/NWConcrete_nw_connection.h>
+#import <libnetwork.dylib/NWConcrete_tcp_connection.h>
+#import <libnetwork.dylib/NWConcrete_nw_multipath_subflow_watcher.h>
+#import <libnetwork.dylib/OS_nw_udp_listener.h>
+#import <libnetwork.dylib/OS_nw_protocol_socket.h>
+#import <libnetwork.dylib/OS_nw_socket_subflow.h>
+#import <libnetwork.dylib/OS_nw_protocol_rawip.h>
+#import <libnetwork.dylib/OS_nw_protocol_coretls.h>

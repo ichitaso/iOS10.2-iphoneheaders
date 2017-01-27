@@ -1,0 +1,9 @@
+#import <QueryPrediction/QPExpert.h>
+#import <QueryPrediction/QPParameters.h>
+#import <QueryPrediction/QPPredictorRankItem.h>
+#import <QueryPrediction/QPPredictor.h>
+#import <QueryPrediction/QPSourceRoutine.h>
+#import <QueryPrediction/QPSourceHistorical.h>
+#import <QueryPrediction/QPReason.h>
+#import <QueryPrediction/QPPredictorLogger.h>
+#import <QueryPrediction/QPSourceConnections.h>

@@ -1,0 +1,9 @@
+#import <HomeUIService/AXHomeUIServiceGlue.h>
+#import <HomeUIService/__HSSetupManualEntryViewControllerAccessibility_super.h>
+#import <HomeUIService/HSSetupManualEntryViewControllerAccessibility.h>
+#import <HomeUIService/__HSSetupCodeFieldAccessibility_super.h>
+#import <HomeUIService/HSSetupCodeFieldAccessibility.h>
+#import <HomeUIService/__HSSetupCameraViewControllerAccessibility_super.h>
+#import <HomeUIService/HSSetupCameraViewControllerAccessibility.h>
+#import <HomeUIService/__HSSetupTroubleshootingTipCellAccessibility_super.h>
+#import <HomeUIService/HSSetupTroubleshootingTipCellAccessibility.h>

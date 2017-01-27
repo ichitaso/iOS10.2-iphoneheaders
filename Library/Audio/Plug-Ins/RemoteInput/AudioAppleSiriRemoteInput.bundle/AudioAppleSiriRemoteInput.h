@@ -1,0 +1,2 @@
+#import <AudioAppleSiriRemoteInput/AudioAppleSiriRemoteInputPlugin.h>
+#import <AudioAppleSiriRemoteInput/AudioAppleSiriRemoteInputDevice.h>

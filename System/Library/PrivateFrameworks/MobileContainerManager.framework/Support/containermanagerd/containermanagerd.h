@@ -1,0 +1,16 @@
+#import <containermanagerd/MCMContainerCache.h>
+#import <containermanagerd/MCMWhitelist.h>
+#import <containermanagerd/MCMGroupManager.h>
+#import <containermanagerd/MCMFileManager.h>
+#import <containermanagerd/MCMContainerMigrator.h>
+#import <containermanagerd/MCMCodeSigningMapping.h>
+#import <containermanagerd/MCMGlobalConfiguration.h>
+#import <containermanagerd/MCMDataProtectionChangeOperation.h>
+#import <containermanagerd/MCMMetadata.h>
+#import <containermanagerd/MCMDataProtectionManager.h>
+#import <containermanagerd/MCMCodeSigningEntry.h>
+#import <containermanagerd/MCMClientConnection.h>
+#import <containermanagerd/MCMPerUserConfiguration.h>
+#import <containermanagerd/MCMSQLiteDB.h>
+#import <containermanagerd/MCMApplicationTerminationAssertion.h>
+#import <containermanagerd/MCMMigrationStatus.h>

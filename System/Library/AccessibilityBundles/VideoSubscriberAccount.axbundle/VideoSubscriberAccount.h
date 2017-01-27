@@ -1,0 +1,3 @@
+#import <VideoSubscriberAccount/__VSCredentialEntryViewController_iOSAccessibility_super.h>
+#import <VideoSubscriberAccount/VSCredentialEntryViewController_iOSAccessibility.h>
+#import <VideoSubscriberAccount/AXVideoSubscriberAccountGlue.h>

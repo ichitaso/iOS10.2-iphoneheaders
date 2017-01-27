@@ -1,0 +1,13 @@
+#import <DigitalTouchBalloonProvider/AXDigitalTouchBalloonProviderSharedGlue.h>
+#import <DigitalTouchBalloonProvider/__GestureInstructionButtonAccessibility_super.h>
+#import <DigitalTouchBalloonProvider/GestureInstructionButtonAccessibility.h>
+#import <DigitalTouchBalloonProvider/__ETTranscriptDetailCanvasViewControllerAccessibility_super.h>
+#import <DigitalTouchBalloonProvider/ETTranscriptDetailCanvasViewControllerAccessibility.h>
+#import <DigitalTouchBalloonProvider/__GestureInstructionItemViewAccessibility_super.h>
+#import <DigitalTouchBalloonProvider/GestureInstructionItemViewAccessibility.h>
+#import <DigitalTouchBalloonProvider/__ETCompositionUIButtonAccessibility_super.h>
+#import <DigitalTouchBalloonProvider/ETCompositionUIButtonAccessibility.h>
+#import <DigitalTouchBalloonProvider/__ETTranscriptColorWheelAccessibility_super.h>
+#import <DigitalTouchBalloonProvider/ETTranscriptColorWheelAccessibility.h>
+#import <DigitalTouchBalloonProvider/__ColorWheelPickerCircleViewAccessibility_super.h>
+#import <DigitalTouchBalloonProvider/ColorWheelPickerCircleViewAccessibility.h>

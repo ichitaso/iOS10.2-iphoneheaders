@@ -1,0 +1,9 @@
+#import <WeatherAppTodayWidget/__WATodayViewControllerAccessibility_super.h>
+#import <WeatherAppTodayWidget/WATodayViewControllerAccessibility.h>
+#import <WeatherAppTodayWidget/AXWeatherUtils.h>
+#import <WeatherAppTodayWidget/AXWeatherAppTodayWidgetGlue.h>
+#import <WeatherAppTodayWidget/__WATodayHourlyForecastViewAccessibility_super.h>
+#import <WeatherAppTodayWidget/WATodayHourlyForecastViewAccessibility.h>
+#import <WeatherAppTodayWidget/__WATodayHeaderViewAccessibility_super.h>
+#import <WeatherAppTodayWidget/WATodayHeaderViewAccessibility.h>
+#import <WeatherAppTodayWidget/AXWeatherNotificationsGlue.h>

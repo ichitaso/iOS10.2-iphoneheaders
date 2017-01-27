@@ -1,0 +1,15 @@
+#import <Assistant/SiriModalTextViewController.h>
+#import <Assistant/AssistantLanguageController.h>
+#import <Assistant/AssistantIntentsController.h>
+#import <Assistant/PSVoiceTriggerRootController.h>
+#import <Assistant/SiriFooterView.h>
+#import <Assistant/AssistantController.h>
+#import <Assistant/AssistantUtilities.h>
+#import <Assistant/AssistantVoiceDownloadingView.h>
+#import <Assistant/AssistantVoiceController.h>
+#import <Assistant/SiriAppsFooterView.h>
+#import <Assistant/SiriAboutAssistantModalViewController.h>
+#import <Assistant/AssistantAudioFeedbackController.h>
+#import <Assistant/IntentsApp.h>
+#import <Assistant/IntentsUtilities.h>
+#import <Assistant/AssistantVoiceSettingsConnection.h>
